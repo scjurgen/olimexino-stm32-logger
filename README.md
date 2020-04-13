@@ -1,5 +1,5 @@
 # olimexino-stm32-logger
-Simple SD-Card serial data logger for the cheap olimexino stm32 with maple ide (EOL)
+Simple SD-Card serial data logger for the cheap olimexino stm32 with maple ide (EOL: http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-ide/index.html)
 
 pin 8 as serial in (serial out not used)
 
